@@ -11,4 +11,5 @@
     <string name="widget_theme_key">com.example.coinflipwidget.WIDGETTHEME.</string>
     <string name="question_mark">\?</string>
     <string name="preferences_key">com.example.coinflipwidget.PREFERENCES_KEY</string>
+    <string name="main_text">Add the Coin Flip Widget to your homescreen!</string>
 </resources>
