@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CoinFlipWidget</string>
+    <string name="coin_to_be_flipped">Coin to be flipped</string>
+    <string name="theme">Theme</string>
+    <string name="select_theme">Select Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="confirm">confirm</string>
+    <string name="heads">HEADS</string>
+    <string name="tails">TAILS</string>
+    <string name="widget_theme_key">com.example.coinflipwidget.WIDGETTHEME.</string>
+    <string name="question_mark">\?</string>
+    <string name="preferences_key">com.example.coinflipwidget.PREFERENCES_KEY</string>
+</resources>
